@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=1694649600&v=beta&t=ch_Zzrs4KnQgpeKDESKfBeFWX-WpXtQveLAvzIpCTg8)]()
+[![MasterHead](https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b53d6186fc53_ABM%20College%20Web%20developer%20main.jpg)]()
 <h1 align="center">Hi 👋, I'm Subhankar Nath</h1>
 <h3 align="center">A passionate full-stack web developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
